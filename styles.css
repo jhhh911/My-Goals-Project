@@ -1,0 +1,14 @@
+* {
+  border: 1px solid red;
+}
+
+body {
+  display: flex;
+  height: 800px;
+  flex-direction: column;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+}
